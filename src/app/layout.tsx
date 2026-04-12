@@ -62,6 +62,7 @@ export default function RootLayout({
         <meta name="version" content={pkg.version} />
         <meta name="apple-mobile-web-app-title" content="UptimeKeeper" />
         <link rel="stylesheet" href="https://cdn.baiwumm.com/fonts/MapleMono-CN-Regular/result.css" />
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="d6ea9375-67c3-4133-b61e-f2e2ce3c07cf"></script>
       </head>
       <body>
         {/* Vercel 统计 */}
