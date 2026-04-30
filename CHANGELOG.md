@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.1.3](https://github.com/tb-miao/Upbot-page/compare/2.1.2...2.1.3) (2026-04-30)
+
+### ✨ Features | 新功能
+
+* 添加 Umami 统计脚本以跟踪网站访问数据 ([651d527](https://github.com/tb-miao/Upbot-page/commit/651d527a5ff2d2e36b0a05c6291e2cf9cc466618))
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 更新版权年份和显示文本，移除监控缩略图 ([332aa80](https://github.com/tb-miao/Upbot-page/commit/332aa8064876dbc043a91b49b1e268fa9edf6319))
+
 ## [2.1.2](https://github.com/tb-miao/Upbot-page/compare/2.1.1...2.1.2) (2026-04-11)
 
 ### 🎫 Chores | 其他更新
