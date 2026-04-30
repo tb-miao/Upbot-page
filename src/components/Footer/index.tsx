@@ -61,7 +61,7 @@ const Footer: FC = () => {
             </Status>
           </div>
           <Description>
-            &copy; {dayjs().format('YYYY')} {" "}
+            &copy; 2024-{dayjs().format('YYYY')} {" "}
             <a
               href={process.env.NEXT_PUBLIC_APP_URL || ''}
               target="_blank"

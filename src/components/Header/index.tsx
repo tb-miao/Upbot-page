@@ -45,7 +45,7 @@ const Header: FC<HeaderProps> = ({ refresh, loading = false }) => {
         <div className="flex gap-2 items-center">
           <Image src='/logo.svg' width={36} height={36} alt="Logo" />
           <ShimmeringText
-            text={process.env.NEXT_PUBLIC_COPYRIGHT!}
+            text="Nachceko Services Status"
             className="text-xl font-black hidden sm:block"
             duration={1.5}
             repeatDelay={1}
